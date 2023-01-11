@@ -1,7 +1,7 @@
 {
-  "name": "vapor",
+  "name": "frontend",
   "version": "1.0.0",
-  "description": "A Steam Clone Full-Stack Application",
+  "description": "Frontend for Project Vapor",
   "main": "index.js",
   "type": "module",
   "scripts": {

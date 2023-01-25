@@ -5,7 +5,7 @@ export const getTheNumberFromHere = createAsyncThunk(
   async (payload, thunkAPI) => {
     console.log(payload);
     console.log(thunkAPI);
-    const response = await fetch("http://localhost:5000/api/testGe", {
+    const response = await fetch("/api/testGet", {
       method: "GET",
     });
     console.log(response);

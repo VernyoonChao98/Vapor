@@ -9,7 +9,7 @@ import {
 function App() {
   const count = useSelector((state) => state.counter.value);
   const dispatch = useDispatch();
-  const payload = { hello: "hello" };
+  const payload = { gameName: "Groot" };
 
   return (
     <div>
@@ -17,8 +17,8 @@ function App() {
         aria-label="Increment value"
         onClick={async () => {
           const response = await dispatch(getTheNumberFromHere(payload));
-          console.log("clicked");
-          console.log(response);
+          // console.log("clicked");
+          // console.log(response);
         }}
       >
         Increment

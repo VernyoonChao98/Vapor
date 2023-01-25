@@ -29,7 +29,7 @@ const GameSchema = Schema(
       required: false,
     },
     price: {
-      type: float,
+      type: mongoose.Decimal128,
       required: true,
     },
     earlyAccess: {

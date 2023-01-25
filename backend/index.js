@@ -5,6 +5,7 @@ import { routes } from "./routes/index.js";
 import { MONGO_URI } from "./config/keys.js";
 
 const app = express();
+app.use(express.json());
 
 app.use(cors());
 
@@ -17,8 +18,6 @@ mongoose
     console.log("MongoDB connected!");
   })
   .catch((err) => console.log(err));
-
-app.use(express.json());
 
 app.use(routes);
 

@@ -1,8 +1,11 @@
 import express from "express";
+import { gameRouter } from "./game.js";
 
 const router = express.Router();
 
-router.get("/testGet", (req, res) => {
+router.use("/game", gameRouter);
+
+router.get("/", (req, res) => {
   res.json(1);
 });
 

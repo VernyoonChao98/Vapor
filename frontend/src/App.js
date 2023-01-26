@@ -9,7 +9,15 @@ import {
 function App() {
   const count = useSelector((state) => state.counter.value);
   const dispatch = useDispatch();
-  const payload = { gameName: "Groot" };
+  const payload = {
+    gameName: "FF2",
+    genre: ["fantasy", "rpg"],
+    description: "Made in heaven plus another",
+    developer: "Square Enix",
+    publisher: "Square Enix",
+    price: 50.0,
+    earlyAccess: true,
+  };
 
   return (
     <div>

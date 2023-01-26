@@ -1,23 +1,21 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
-import { csrfFetch } from "../utils/csrf";
-
 export const getTheNumberFromHere = createAsyncThunk(
   "counter/getTheNewNumba",
   async (payload, thunkAPI) => {
-    // console.log(payload);
-    // console.log(thunkAPI);
-    // const response = await fetch(`http://localhost:5000/api/game/${1}`, {
-    //   method: "GET",
-    // });
+    console.log(payload);
+    console.log(thunkAPI);
+    const response = await fetch(`http://localhost:5000/api/game/`, {
+      method: "GET",
+    });
 
     console.log(payload);
 
-    const response = await fetch(`http://localhost:5000/api/game/`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload),
-    });
+    // const response = await fetch(`http://localhost:5000/api/game/`, {
+    //   method: "POST",
+    //   headers: { "Content-Type": "application/json" },
+    //   body: JSON.stringify(payload),
+    // });
 
     console.log(response);
     if (response.ok) {
@@ -53,8 +51,8 @@ export const counterSlice = createSlice({
     });
     builder.addCase(getTheNumberFromHere.fulfilled, (state, action) => {
       // console.log("hello from fulfilled");
-      // console.log(action.payload);
-      state.value = action.payload;
+      console.log(action.payload);
+      // state.value = action.payload;
     });
     builder.addCase(getTheNumberFromHere.rejected, (state, action) => {
       // console.log(action.payload);

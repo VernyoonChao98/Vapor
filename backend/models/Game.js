@@ -29,11 +29,12 @@ const GameSchema = Schema(
       required: false,
     },
     price: {
-      type: mongoose.Decimal128,
+      type: Number,
       required: true,
     },
     earlyAccess: {
       type: String,
+      select: false,
       required: true,
     },
     releaseDate: { type: Date, default: Date.now, required: false },

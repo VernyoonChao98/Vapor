@@ -11,11 +11,12 @@ const UserSchema = Schema(
     email: { type: String, required: true },
     hashedPassword: {
       type: String,
+      select: false,
       required: true,
     },
     avatarUrl: {
       type: String,
-      required: true,
+      required: false,
     },
   },
   { timestamps: true }

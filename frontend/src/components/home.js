@@ -33,7 +33,8 @@ function Home() {
       Home PAGEEEEEEEEEEE weeee hoooo asdfsadfsdfsdffaasfdsfsafsdfsdfsd
       asdfsafdsfafdsafsa
       <button>Store</button>
-      <button>Profile</button>
+      <button>Library</button>
+      <button></button>
     </div>
   );
 }

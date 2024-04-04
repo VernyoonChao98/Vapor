@@ -34,7 +34,7 @@ function Home() {
       asdfsafdsfafdsafsa
       <button>Store</button>
       <button>Library</button>
-      <button></button>
+      <button>Community</button>
     </div>
   );
 }

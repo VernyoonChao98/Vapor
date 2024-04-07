@@ -35,6 +35,8 @@ function Home() {
       <button>Store</button>
       <button>Library</button>
       <button>Community</button>
+      <div>Notification Icon</div>
+      <div>Bell Icon</div>
     </div>
   );
 }

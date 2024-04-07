@@ -31,6 +31,8 @@ function Home() {
         Click for home
       </button>
       Home PAGEEEEEEEEEEE weeee hoooo asdfsadfsdfsdffaasfdsfsafsdfsdfsd
+      <button>Store</button>
+      <button>Profile</button>
     </div>
   );
 }

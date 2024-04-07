@@ -30,7 +30,7 @@ function Home() {
       >
         Click for home
       </button>
-      Home PAGEEEEEEEEEEE weeee hoooo asdfsadfsdfsdf
+      Home PAGEEEEEEEEEEE weeee hoooo asdfsadfsdfsdffaasfdsfsafsdfsdfsd
     </div>
   );
 }

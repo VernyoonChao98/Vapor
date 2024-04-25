@@ -39,6 +39,7 @@ function Home() {
       <div>Bell Icon</div>
       <div>Main store Page</div>
       <div>Curasel</div>
+      <div>There is more to this</div>
     </div>
   );
 }

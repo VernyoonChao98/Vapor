@@ -35,6 +35,7 @@ function Home() {
       <button>Store</button>
       <button>Library</button>
       <button>Community</button>
+      <button>User</button>
       <div>Notification Icon</div>
       <div>Bell Icon</div>
       <div>Main store Page</div>

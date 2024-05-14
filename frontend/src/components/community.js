@@ -16,6 +16,7 @@ function Community() {
     <div>
       <div>Community Activity</div>
       <div>Community and official content for all games and software on Steam.</div>
+      <div>Recently Played Games</div>
     </div>
   );
 }

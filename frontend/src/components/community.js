@@ -22,6 +22,8 @@ function Community() {
         Recently Played Games
         <div>List of games played recently</div>
       </div>
+      <div>SearchBar 1</div>
+      <div>SearchBar 2</div>
     </div>
   );
 }

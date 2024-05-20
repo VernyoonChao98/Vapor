@@ -14,7 +14,8 @@ function Community() {
 
   return (
     <div>
-      <div>Box 1</div>
+      <div>Community Activity</div>
+      <div>Community and official content for all games and software on Steam.</div>
     </div>
   );
 }

@@ -26,6 +26,7 @@ function Community() {
       <div>SearchBar 2</div>
       <div>Different tabs of stuff</div>
       <div>Sticker</div>
+      <div>another sticker</div>
     </div>
   );
 }

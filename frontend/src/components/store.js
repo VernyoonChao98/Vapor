@@ -17,7 +17,7 @@ function Store() {
       <div>Top Box</div>
       <div>Background picture</div>
       <div>Featured & Recommendations</div>
-
+      <div>Special Offers</div>
     </div>
   );
 }

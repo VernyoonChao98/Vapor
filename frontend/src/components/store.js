@@ -20,6 +20,7 @@ function Store() {
       <div>Special Offers</div>
       <div>Browse By Category</div>
       <div>AD</div>
+      <div>Recommended Based On Games You Play</div>
     </div>
   );
 }

@@ -19,6 +19,7 @@ function Store() {
       <div>Featured & Recommendations</div>
       <div>Special Offers</div>
       <div>Browse By Category</div>
+      <div>AD</div>
     </div>
   );
 }

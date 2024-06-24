@@ -14,7 +14,10 @@ function Store() {
 
   return (
     <div>
-      <div>Box 1</div>
+      <div>Top Box</div>
+      <div>Background picture</div>
+      <div>Featured & Recommendations</div>
+
     </div>
   );
 }

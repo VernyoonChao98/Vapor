@@ -18,6 +18,7 @@ function gameStorePage() {
       <div>curasel</div>
       <div>picture</div>
       <div>bio</div>
+      <div>reviews</div>
     </div>
   );
 }

@@ -15,6 +15,7 @@ function gameStorePage() {
   return (
     <div>
       <div>stream</div>
+      <div>curasel</div>
     </div>
   );
 }

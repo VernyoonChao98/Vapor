@@ -14,7 +14,7 @@ function libraryPage() {
 
   return (
     <div>
-
+      <div>Home Search Bar</div>
     </div>
   );
 }

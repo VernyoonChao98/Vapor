@@ -15,6 +15,7 @@ function libraryPage() {
   return (
     <div>
       <div>Home Search Bar</div>
+      <div>Game List</div>
     </div>
   );
 }

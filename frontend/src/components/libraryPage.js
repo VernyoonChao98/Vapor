@@ -16,6 +16,7 @@ function libraryPage() {
     <div>
       <div>Home Search Bar</div>
       <div>Game List</div>
+      <div>Game Status</div>
     </div>
   );
 }

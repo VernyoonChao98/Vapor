@@ -19,7 +19,8 @@ function libraryPage() {
       <div>Game Status
         <div>Store Page</div>
         <div>Community Hub</div>
-        <div></div>
+        <div>Discussions</div>
+        <div>Guides</div>
       </div>
     </div>
   );

@@ -16,12 +16,15 @@ function libraryPage() {
     <div>
       <div>Home Search Bar</div>
       <div>Game List</div>
-      <div>Game Status
+      <div>
+        Game Status
         <div>Store Page</div>
         <div>Community Hub</div>
         <div>Discussions</div>
         <div>Guides</div>
+        <div>Support</div>
       </div>
+      <div>Post-Game Summary</div>
     </div>
   );
 }

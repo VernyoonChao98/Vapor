@@ -17,7 +17,9 @@ function libraryPage() {
       <div>Home Search Bar</div>
       <div>Game List</div>
       <div>Game Status
-        <div>Store</div>
+        <div>Store Page</div>
+        <div>Community Hub</div>
+        <div>Discussions</div>
       </div>
     </div>
   );

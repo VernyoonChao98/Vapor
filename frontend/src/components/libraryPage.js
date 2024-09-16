@@ -25,6 +25,7 @@ function libraryPage() {
         <div>Support</div>
       </div>
       <div>Post-Game Summary</div>
+      <div>Achievements</div>
     </div>
   );
 }

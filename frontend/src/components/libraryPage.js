@@ -30,6 +30,9 @@ function libraryPage() {
         Activity <button>View recent news</button>
       </div>
       <div>Friends who play</div>
+      <div>Notes</div>
+      <div>Screenshots</div>
+      <div>My Reviews</div>
     </div>
   );
 }

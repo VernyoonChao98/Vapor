@@ -26,7 +26,12 @@ function libraryPage() {
       </div>
       <div>Post-Game Summary</div>
       <div>Achievements</div>
-      <div>Activity</div>
+      <div>
+        Activity <button>View recent news</button>
+      </div>
+      <div>Friends who play</div>
+      <div>Notes</div>
+      <div>Screemshots</div>
     </div>
   );
 }

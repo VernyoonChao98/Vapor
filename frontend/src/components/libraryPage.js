@@ -31,7 +31,8 @@ function libraryPage() {
       </div>
       <div>Friends who play</div>
       <div>Notes</div>
-      <div>Screemshots</div>
+      <div>Screenshots</div>
+      <div>My Reviews</div>
     </div>
   );
 }

@@ -18,6 +18,8 @@ function Library() {
       <div>List of Games</div>
       <div>Uncategorized</div>
       <div>Categorized</div>
+      <div>Game info</div>
+      <div>Play Time</div>
     </div>
   );
 }

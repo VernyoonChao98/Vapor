@@ -15,6 +15,7 @@ function Library() {
   return (
     <div>
       <div>Home</div>
+      <div>List of Games</div>
     </div>
   );
 }

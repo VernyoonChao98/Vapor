@@ -20,6 +20,7 @@ function Library() {
       <div>Categorized</div>
       <div>Game info</div>
       <div>Play Time</div>
+      <div>Last Played</div>
     </div>
   );
 }

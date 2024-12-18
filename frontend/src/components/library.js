@@ -25,6 +25,8 @@ function Library() {
       <div>Achievements</div>
       <div>
         <button>Settings</button>
+        <button>Show Game Details</button>
+        <button>Add to Favorites</button>
       </div>
     </div>
   );

@@ -22,6 +22,8 @@ function Library() {
       <div>Play Time</div>
       <div>Last Played</div>
       <div>Play Time</div>
+      <div>Achievements</div>
+      <div>Buttons</div>
     </div>
   );
 }

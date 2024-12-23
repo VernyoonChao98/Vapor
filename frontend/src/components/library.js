@@ -28,6 +28,7 @@ function Library() {
         <button>Show Game Details</button>
         <button>Add to Favorites</button>
       </div>
+      <div> Store Page </div>
     </div>
   );
 }

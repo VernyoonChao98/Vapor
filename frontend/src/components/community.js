@@ -28,6 +28,7 @@ function Community() {
       <div>Sticker</div>
       <div>
         <div>All</div>
+        <div>Screenshots</div>
       </div>
     </div>
   );

@@ -35,6 +35,7 @@ function Community() {
         <div>Workshop</div>
         <div>News</div>
         <div>Guides</div>
+        <div>Reviews</div>
       </div>
     </div>
   );

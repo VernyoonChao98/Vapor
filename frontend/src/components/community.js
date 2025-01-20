@@ -32,6 +32,11 @@ function Community() {
         <div>Artwork</div>
         <div>Broadcasts</div>
         <div>Videos</div>
+        <div>Workshop</div>
+        <div>News</div>
+        <div>Guides</div>
+        <div>Reviews</div>
+        <div>Viewing Most Popular</div>
       </div>
     </div>
   );

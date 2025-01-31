@@ -15,6 +15,7 @@ function Profile() {
   return (
     <div>
       <div>Profile Name</div>
+      <div>Level Number</div>
     </div>
   );
 }

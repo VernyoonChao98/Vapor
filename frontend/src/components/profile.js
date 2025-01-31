@@ -16,6 +16,7 @@ function Profile() {
     <div>
       <div>Profile Name</div>
       <div>Level Number</div>
+      <div>Years of Service</div>
     </div>
   );
 }

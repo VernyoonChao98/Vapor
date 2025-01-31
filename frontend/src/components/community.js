@@ -36,6 +36,7 @@ function Community() {
         <div>News</div>
         <div>Guides</div>
         <div>Reviews</div>
+        <div>Viewing</div>
         <div>Viewing Most Popular</div>
         <div>Most Recent</div>
       </div>

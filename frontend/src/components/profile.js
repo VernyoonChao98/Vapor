@@ -14,7 +14,8 @@ function Profile() {
 
   return (
     <div>
-      <div>Box 1</div>
+      <div>Profile Name</div>
+      <div>Level Number</div>
     </div>
   );
 }

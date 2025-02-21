@@ -19,6 +19,7 @@ function Profile() {
       <div>Years of Service</div>
       <button>Edit Profile</button>
       <div>Steam Replay 2024</div>
+      <div>Recent Activity</div>
     </div>
   );
 }

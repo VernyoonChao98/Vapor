@@ -21,6 +21,7 @@ function Profile() {
       <div>Steam Replay 2024</div>
       <div>Recent Activity</div>
       <div>View All Recently Played Wishlist</div>
+      <div>Comments</div>
     </div>
   );
 }

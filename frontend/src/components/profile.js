@@ -30,6 +30,8 @@ function Profile() {
         Badges Number
         <div>Games Owned Number</div>
         <div>Inventory</div>
+        <div>Screenshots</div>
+        <div>Videos</div>
       </div>
     </div>
   );

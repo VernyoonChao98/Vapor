@@ -25,6 +25,8 @@ function Profile() {
       <div>View All Recently Played Wishlist</div>
       <div>Wishlist</div>
       <div>Comments</div>
+      <div>Currently Online</div>
+      <div>Badges Number</div>
     </div>
   );
 }

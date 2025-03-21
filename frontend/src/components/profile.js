@@ -26,7 +26,11 @@ function Profile() {
       <div>Wishlist</div>
       <div>Comments</div>
       <div>Currently Online</div>
-      <div>Badges Number</div>
+      <div>
+        Badges Number
+        <div>Games Owned Number</div>
+        <div>Inventory</div>
+      </div>
     </div>
   );
 }

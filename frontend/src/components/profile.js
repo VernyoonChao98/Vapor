@@ -14,7 +14,9 @@ function Profile() {
 
   return (
     <div>
-      <div>Profile Name</div>
+      <div>
+        Profile Name <button>Drop down</button>
+      </div>
       <div>Level Number</div>
       <div>Years of Service</div>
       <button>Edit Profile</button>
